@@ -1,1 +1,2 @@
-# falabella-chile-web-scraping
+# Falabella Chile - Web Scraping
+Diseñado para entorno Jupyter Notebook
