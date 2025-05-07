@@ -5,4 +5,5 @@
 - Python.
 - BeautifulSoup4 (bs4) / WebScraping.
 - Jupyter Notebook.
+- Selenium.
 - Numpy.
