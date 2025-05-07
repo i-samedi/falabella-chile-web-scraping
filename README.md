@@ -1,5 +1,5 @@
 # Falabella Chile - Web Scraping - Data Science
-- Codigo [Web Scraping de Falabella](web-scraping-falabella.py) fue diseñado para entorno Jupyter Notebook en Google Colab.
+- Codigo [web-scraping-falabella.py](web-scraping-falabella.py) fue diseñado para entorno Jupyter Notebook en Google Colab.
 
 ## Tecnologías Utilizadas
 - Python.
